@@ -16,7 +16,7 @@ while True:
         print(str(usr_numb) + " + " + str(nn_numb) + " + " + str(nnn_numb) + " будет " + str(result) + "!")
         break
     else:
-        if usr_numb.isalpha(): #предупреждающая надпись если пользователь ввёл текст
+        if usr_numb.: #предупреждающая надпись если пользователь ввёл текст
             print("Ерунда))))!Вы ввели текст, не число!")
         else:
             print('Вы ввели, ни текст, ни число!')
