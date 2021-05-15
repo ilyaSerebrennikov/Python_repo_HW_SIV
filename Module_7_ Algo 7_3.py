@@ -11,9 +11,6 @@
 import random
 #import cProfile - кто-то предложил эту библиотеку.На кой???
 
-
-
-
 def median_search(list, frst, last):
 
     list = list.copy()
