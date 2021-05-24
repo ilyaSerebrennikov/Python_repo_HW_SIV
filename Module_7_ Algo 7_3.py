@@ -99,7 +99,7 @@ print(f'Вот медиана: {median}')
 
 print('А это отсортированный массив: ', merge_sort(array), sep='\n')
 if median == merge_sort(array)[len(array)//2]:
-    print('\nВерно')
+    print('\n Сверка показала, что "Верно!"')
 else:
-    print('\nОшибка!!!')
+    print('\nСверка показала, что "Ошибка!!!"')
 
