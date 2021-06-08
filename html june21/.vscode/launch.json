@@ -1,0 +1,21 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Attach to Remote Program",
+            "request": "attach",
+            "hostName": "<The host name or ip address of remote debuggee>",
+            "port": "<debug port of remote debuggee>"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open Lesson 1 june 2021.html",
+            "file": "e:\\GeekBrains\\Python_basic\\repo\\Python_repo_HW_SIV\\html june21\\Lesson 1 june 2021.html"
+        }
+    ]
+}

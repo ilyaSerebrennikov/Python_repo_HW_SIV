@@ -52,6 +52,14 @@ class BinaryTree:
     def get_root_val(self):
         return self.root
 
+    def lookup_val(self,node,target):# валидация узла
+        if node == None: return 0
+        else:
+            if target == None. tree_obj.left_child.right:return 1
+            else: return self.lookup(node.right, target)
+
+
+
 
 r = BinaryTree(input())
 print(r.get_root_val())

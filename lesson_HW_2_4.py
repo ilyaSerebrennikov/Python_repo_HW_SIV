@@ -11,7 +11,7 @@
 
 
 my_str1 = input(str("введите строку "))
-my_word = []
+my_word = str([])
 num = 1
 while True:
     if my_str1.isalpha():
