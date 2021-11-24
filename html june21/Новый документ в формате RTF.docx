@@ -1,0 +1,52 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset204 Times New Roman;}{\f4\fswiss\fprq2\fcharset204 Arial;}{\f5\fnil\fprq0\fcharset204 Roboto{\*\falt San Francisco};}{\f6\fnil\fprq2\fcharset204 Microsoft YaHei;}{\f7\fnil\fprq2\fcharset204 SimSun;}{\f8\fnil\fprq2\fcharset204 Lucida Sans;}{\f9\fswiss\fprq0\fcharset128 Lucida Sans;}}
+{\colortbl;\red0\green0\blue0;\red63\green83\blue104;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af7\langfe2052\dbch\af8\afs24\lang1081\loch\f3\fs24\lang1049 Базовый;}
+{\s3\sbasedon15\snext16\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28 Заголовок 3;}
+{\s15\sbasedon0\snext16\sb240\sa120\keepn\hich\af6\dbch\af8\afs28\loch\f4\fs28 Заголовок;}
+{\s16\sbasedon0\snext16\sb0\sa120 Основной текст;}
+{\s17\sbasedon16\snext17\sb0\sa120\dbch\af9 Список;}
+{\s18\sbasedon0\snext18\sb120\sa120\noline\i\dbch\af9\afs24\ai\fs24 Название;}
+{\s19\sbasedon0\snext19\noline\dbch\af9 Указатель;}
+}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern41100}}\deftab709
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 \u1054\'3f\u1073\'3f\u1099\'3f\u1095\'3f\u1085\'3f\u1099\'3f\u1081\'3f;}}
+\formshade\paperh16838\paperw11906\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sb240\sa120{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+1. \'d1\'ee\'e7\'e4\'e0\'f2\'fc \'f4\'e0\'e9\'eb \'f1\'f2\'e8\'eb\'e5\'e9 \'e8 \'ef\'ee\'e4\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'ea \'ea\'e0\'e6\'e4\'ee\'e9 \'f1\'f2\'f0\'e0\'ed\'e8\'f6\'e5.}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+2. \'c4\'eb\'ff \'e2\'f1\'e5\'e3\'ee \'f1\'e0\'e9\'f2\'e0 \'e7\'e0\'e4\'e0\'f2\'fc \'f0\'e0\'e7\'ed\'ee\'e2\'e8\'e4\'ed\'ee\'f1\'f2\'fc \'f8\'f0\'e8\'f4\'f2\'e0:}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) font-family: sans-serif;}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+3. \'c4\'eb\'ff \'e2\'f1\'e5\'f5 \'ef\'e0\'f0\'e0\'e3\'f0\'e0\'f4\'ee\'e2 \'ef\'f0\'e8\'f1\'e2\'ee\'e8\'f2\'fc \'ea\'eb\'e0\'f1\'f1 \'e8 \'e7\'e0\'e4\'e0\'f2\'fc \'f1\'f2\'e8\'eb\'e8}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) font-size: 16px;\line b) line-height: 26px;\line c) color: #1F3F68;}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+4. \'c4\'eb\'ff \'e7\'e0\'e3\'ee\'eb\'ee\'e2\'ea\'e0 h1 \'f1\'ee\'e7\'e4\'e0\'f2\'fc \'ea\'eb\'e0\'f1\'f1 \'e8 \'ef\'f0\'e8\'f1\'e2\'ee\'e8\'f2\'fc \'f1\'f2\'e8\'eb\'e8:}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) font-size: 64px;\line b) color: #1F3F68;}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+5. \'c4\'eb\'ff \'e7\'e0\'e3\'ee\'eb\'ee\'e2\'ea\'e0 h2 (\'ed\'e0 \'f1\'f2\'f0\'e0\'ed\'e8\'f6\'e5 \'ea\'ee\'ed\'f2\'e0\'ea\'f2\'fb) \'f1\'ee\'e7\'e4\'e0\'f2\'fc \'ea\'eb\'e0\'f1\'f1 \'e8 \'ef\'f0\'e8\'f1\'e2\'ee\'e8\'f2\'fc \'f1\'f2\'e8\'eb\'e8:}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) font-weight: 500;\line b) font-size: 44px;\line c) text-align: center;}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+6. \'c7\'e0\'e3\'ee\'eb\'ee\'e2\'ea\'f3 h3 \'f1\'ee\'e7\'e4\'e0\'f2\'fc \'ea\'eb\'e0\'f1\'f1 \'e8 \'e7\'e0\'e4\'e0\'f2\'fc \'f1\'f2\'e8\'eb\'e8:}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) font-size: 36px;\line b) text-align: center;}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+7. \'c7\'e0\'e3\'ee\'eb\'ee\'e2\'ea\'e0\'ec h4 \'f1\'ee\'e7\'e4\'e0\'f2\'fc \'ea\'eb\'e0\'f1\'f1 \'e8 \'e7\'e0\'e4\'e0\'f2\'fc \'f1\'f2\'e8\'eb\'e8}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) font-size: 20px;\line b) line-height: 30px;\line c) color: #1F3F68;}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+8. \'c4\'eb\'ff \'e2\'f1\'e5\'f5 \'ef\'ee\'eb\'e5\'e9 \'e2\'e2\'ee\'e4\'e0 (input, textarea) \'e7\'e0\'e4\'e0\'f2\'fc \'ee\'e1\'f9\'e8\'e9 \'ea\'eb\'e0\'f1\'f1 \'e8 \'ea \'ed\'e5\'ec\'f3 \'f1\'f2\'e8\'eb\'e8:}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) border: 1px solid #356EAD;\line b) box-sizing: border-box;\line c) border-radius: 10px;\line d) opacity: 0.4;}
+\par \pard\plain \s3\ilvl2\outlinelevel2\sb240\sa120\keepn\b\hich\af7\dbch\af8\afs28\ab\loch\f3\fs28\sl360\slmult0\widctlpar\li0\ri0\lin0\rin0\fi0\sb300\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs25\loch\f5
+9. \'ca\'ed\'ee\'ef\'ea\'e5 \'ee\'f2\'ef\'f0\'e0\'e2\'ea\'e8 \'f4\'ee\'f0\'ec\'fb \'ef\'f0\'e8\'f1\'e2\'ee\'e8\'f2\'fc \'ea\'eb\'e0\'f1\'f1 \'e8 \'ea \'ed\'e5\'ec\'f3 \'f1\'f2\'e8\'eb\'fc:}
+\par \pard\plain \s16\sb0\sa120\widctlpar\li0\ri0\lin0\rin0\fi0\sb0\sa150{\scaps0\caps0\cf2\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs22\loch\f5
+a) background: #5A98D0;\line b) box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);\line c) border-radius: 10px;\line d) font-weight: 500;\line e) font-size: 16px;\line f) line-height: 26px;\line g) text-align: center;\line h) color: #FFFFFF;\line I) text-transform: uppercase;}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af7\langfe2052\dbch\af8\afs24\lang1081\loch\f3\fs24\lang1049{\rtlch \ltrch\loch
+}
+\par }

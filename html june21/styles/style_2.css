@@ -1,0 +1,14 @@
+.block {
+  width: 90%;
+  height: 300px;
+  border: 1px solid #000;
+  background-color: #ccc;
+  background-image: url(/Pictures images/lucy.jpg) repeat 0 0;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
