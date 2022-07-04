@@ -17,14 +17,15 @@
     #если print(my_str1,sep='\n'), то
     # получим: ['в', 'в', 'е', 'д', 'и', 'т', 'е', ' ', 'с', 'т', 'р', 'о', 'к', 'у', ' ']
     # с пробелами
-list_1 = input().split()
 #for item in enumerate(list_1):
   #  print(item)#(0, 'k') (1, 'j') (2, 'h')
+
+list_1 = input().split()
 for count, item in enumerate(list_1):
-     if len(item) <= 10:
-        print(count, item)
-     else:
-         print('Нужно выводить первые 10 букв в слове.Но как?')
+     #if len(item) <= 10:
+        print(count, item[:10])
+    # else:
+        # print('Нужно выводить первые 10 букв в слове.Но как?')
 
 #for count, item in enumerate(list_1, 100):
     #print(count, item)
